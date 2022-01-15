@@ -8,7 +8,7 @@ A silly pixel art of a cute frog, "Froggy", using HTML and CSS properties.
 Here is a Reference photo from [Making Pixel Art with Pure CSS](https://pokecoder.hashnode.dev/making-pixel-art-with-pure-css):
 
 <a>
-  <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637011619361/9EvDTysZ_.png?auto=compress,format&format=webp" alt="froggy reference photo" height="500" width="450"/>
+  <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637011619361/9EvDTysZ_.png?auto=compress,format&format=webp" alt="froggy reference photo" height="100" width="100"/>
 </a>
 
 
